@@ -2,4 +2,4 @@
 
 "Study something you love, and it will becomes an opportunity rather than a chore"
 
-In October 2022, I decided to take control of my life and pursue a career that I am genuinely enthusiastic about!
+Hi there! My name is Sara, and I'm a new Junior Java Developer with big dreams of becoming a Front-End Developer. I may not have any professional experience (yet!), but I've spent over 500 hours honing my skills in Java, SQL, HTML, CSS, and JavaScript in a full-stack course. Currently, I'm studying for another 200 hours to master the art of front-end development with HTML, CSS, JavaScript, TypeScript, and React.

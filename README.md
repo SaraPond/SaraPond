@@ -2,4 +2,10 @@
 
 "Study something you love, and it will becomes an opportunity rather than a chore"
 
-Hi there! My name is Sara, and I'm a new Junior Java Developer with big dreams of becoming a Front-End Developer. I may not have any professional experience (yet!), but I've spent over 500 hours honing my skills in Java, SQL, HTML, CSS, and JavaScript in a full-stack course. Currently, I'm studying for another 200 hours to master the art of front-end development with HTML, CSS, JavaScript, TypeScript, and React.
+Hi there! My name is Sara, and I'm an aspiring Front-End Developer. 
+
+📍 Junior Java Developer course (500 hours) — Basic object-oriented programming in Java, Front-end programming languages (HTML, CSS, Javascript), and MySQL. 
+For project management, the Agile-Scrum methodology was used.
+
+📍 Training program for React front-end development (208 hours). Training to become proficient in using TypeScript and React to build web front-end solutions.
+

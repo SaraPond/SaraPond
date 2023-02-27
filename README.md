@@ -2,10 +2,12 @@
 
 "Study something you love, and it will becomes an opportunity rather than a chore"
 
-Hi there! My name is Sara, and I'm an aspiring Front-End Developer. 
+Hi there! My name is Sara and last November I made the decision to change my life.
 
-📍 Junior Java Developer course (500 hours) — Basic object-oriented programming in Java, Front-end programming languages (HTML, CSS, Javascript), and MySQL. 
+November 2022 - February 2023
+⭐️ Junior Java Developer course (500 hours) — Basic object-oriented programming in Java, Front-end programming languages (HTML, CSS, Javascript), and MySQL. 
 For project management, the Agile-Scrum methodology was used.
 
-📍 Training program for React front-end development (208 hours). Training to become proficient in using TypeScript and React to build web front-end solutions.
+February 2023 - April 2023
+⭐️ Training program for React front-end development (208 hours). Training to become proficient in using TypeScript and React to build web front-end solutions.
 

@@ -1,9 +1,7 @@
 
 ![avatar](https://user-images.githubusercontent.com/122526500/223231302-58a50375-19f9-45ff-a6df-45d6f13f4750.gif)
 
-
 # Hey there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium%20Skin%20Tone.png" alt="Waving Hand Medium-Dark Skin Tone" width="35" height="35" />  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=sarapond.visitor-badge&left_text=My%20Page%20Visitors)
-
 
 I'm an aspiring front-end developer from Italy who has recently discovered a newfound love for coding and decided to change her life <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Green%20Heart.png" alt="Green Heart" width="20" height="20" />
 

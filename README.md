@@ -5,12 +5,10 @@
 # Hey there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium%20Skin%20Tone.png" alt="Waving Hand Medium-Dark Skin Tone" width="35" height="35" />  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=sarapond.visitor-badge&left_text=My%20Page%20Visitors)
 
 
-This is Sara, an aspiring front-end developer from italy who has recently discovered a newfound love for coding <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Green%20Heart.png" alt="Green Heart" width="20" height="20" />
+I'm an aspiring front-end developer from Italy who has recently discovered a newfound love for coding and decided to change her life <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Green%20Heart.png" alt="Green Heart" width="20" height="20" />
 
-
-### My Learning Journey
-November 2022 - February 2023<br>
-14-weeks intensive Java course that gave me a solid foundation in Java, SQL, and front-end languages<br>
+### The Journey so far..
+November 2022 - February 2023: 500 hours intensive Java course. It gave me a solid foundation in Java, SQL, and front-end languages<br>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 

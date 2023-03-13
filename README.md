@@ -6,7 +6,7 @@
 
 <h1>Hey there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium%20Skin%20Tone.png" alt="Waving Hand Medium-Dark Skin Tone" width="35" height="35" /></h1>
 
-<p>I&#39;m an aspiring front-end developer from Italy who has recently discovered a newfound love for coding and decided to change her life <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Green%20Heart.png" alt="Green Heart" width="20" height="20" /></p>
+<p>I&#39;m an aspiring front-end developer from Italy who has recently discovered a newfound love for coding and decided to change her life </p>
 
 
 <h2> My coding journey <img src ="https://cdn-icons-png.flaticon.com/512/4390/4390411.png" width="20" height="20"></h2>
